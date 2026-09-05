@@ -34,10 +34,15 @@ process on identical tile geometry but have not been verified in game.
 
 ## Credits and permissions
 
-Base artwork is from **[Controller Icons](https://www.nexusmods.com/blur/mods/2)** on Nexus
-Mods by its original author, extracted from that mod's `.tpf` packages. It is not my work and
-is included here only as a modified derivative — check that mod's own permissions before
-redistributing.
+Base artwork is by **pulsedex**, originally shared on the Blur Discord. It reached me through
+a [Nexus Mods re-upload](https://www.nexusmods.com/blur/mods/2) whose uploader states plainly
+that they are not the author and mirrored it only because the mod wasn't available anywhere
+else.
+
+So: the artwork is pulsedex's, not mine and not the Nexus uploader's. No explicit licence
+accompanies it. It is included here as a modified derivative, with credit, in the same spirit
+in which it has been circulating — but if you are pulsedex and would rather this came down or
+were credited differently, open an issue and it's done.
 
 The original packs left four prompts drawn as keyboard keycaps (`F1`/`F2`): TexMod mods
 replace whole textures, and those tiles were simply never redrawn. Those four have been
