@@ -55,3 +55,11 @@ this atlas, so anything that shifted would misalign.
 
 Two prompts remain as keyboard keys (`+` and `Space`); it isn't clear what they map to on a
 pad and they have not been observed in game.
+
+## Tooling
+
+The four keycap tiles were located and recomposited with
+[Claude Code](https://claude.com/claude-code) — measuring each tile's bounds from the atlas's
+alpha channel, trimming the padding and text labels off the Xelu source icons, and fitting
+them to the original UV rectangles so nothing shifted. The base artwork and the replacement
+icons are both other people's work, credited above.
